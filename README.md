@@ -38,4 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # MoopyPsi
 Maia's Luxury Cat Apparel Website
->>>>>>> bb617da27df28a65e5380926d9b5574fca36282c
